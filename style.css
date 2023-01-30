@@ -1,0 +1,10 @@
+
+.text_image_and_result {
+    background: #8BB4F0;
+    padding: 40px;
+    border-radius: 20px;
+    width: 50%;
+    display: block;
+    box-shadow: 5px 5px 18px grey;
+}
+ 
